@@ -1,0 +1,1 @@
+Repositorio destinado apenas ao armazenamento de imagens dos meus projetos e utilizar sua url quando necessario;
